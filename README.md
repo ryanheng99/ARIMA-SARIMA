@@ -13,15 +13,24 @@ Extends ARIMA to handle seasonality in time series data.
 
 
 ## 📁 Contents
-```
-SensordataForecastwith_SARIMA.ipynb
-Jupyter notebook demonstrating:
 
-Data preprocessing
-Stationarity checks (ADF test)
-Model fitting (ARIMA & SARIMA)
-Forecasting and visualization
-Evaluation metrics (e.g., RMSE)
+## SensordataForecastwith_ARIMA.ipynb
+```
+Implements ARIMA modeling, including:
+
+Stationarity checks
+Parameter tuning
+Forecasting and evaluation
+```
+
+
+## SensordataForecastwith_SARIMA.ipynb
+```
+Implements SARIMA modeling for seasonal data, including:
+
+Seasonal decomposition
+Model fitting
+Forecast visualization
 ```
 
 
